@@ -33,7 +33,7 @@
 	
 	<script language = 'javascript'>
 		
-		advice_url = "http://sf-pyw.mosyag.in/m04/api/forecasts"
+		advice_url = "https://sf-pyw.mosyag.in/m04/api/forecasts"
 
 	$("#main_header").click(function() {
 	
